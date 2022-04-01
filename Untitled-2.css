@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+ #verde1 { height: 800px;
+	 width: 800px;
+	 background-color: #B9FD00;
+align-self: center;
+margin: auto;
+	 padding: 50px;}
+
+.bigparent { isplay: flex;
+  align-items: center; justify-content: center;
+	
+}
+
+#verde2 { height: 600px;
+	 width: 600px;
+	 background-color: #00CE45;
+align-self: center;
+	 position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.parent { 
+	 display: flex;
+  align-items: center; justify-content: flex-start;
+}
+		
+#naranja { height: 450px;
+	 width: 450px;
+	 background-color: #FF7E00;
+	 position: absolute;
+  	margin-bottom: 75px;
+	margin-top: 75px;
+	margin-left: auto;
+	margin-right: 150px;
+  
+	align-items: center;
+}
+
+#amarillo {
+	height: 300px;
+	 width: 300px;
+	 background-color: #FFFD00;
+	 position: absolute;
+	margin-bottom: 75px;
+	margin-top: 75px;
+	margin-left: 150px;
+	margin-right: auto;
+  
+}
+
+#magenta {
+	height: 220px;
+	 width: 220px;
+	 background-color: #FF00BF;
+	 position: absolute;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	margin-left: 80px;
+	margin-right: auto;
+}
+
+#gris {
+	height: 150px;
+	 width: 150px;
+	 background-color: #B4B4B4;
+align-self: center;
+	 position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#cafe1 {
+	height: 50px;
+	 width: 50px;
+	 background-color: #553333;
+	 position: absolute;
+	margin-bottom: 80px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 80px;
+}
+#cafe2 {
+	height: 50px;
+	 width: 50px;
+	 background-color: #331212;
+	 position: absolute;
+	margin-bottom: 80px;
+	margin-top: 20px;
+	margin-left: 80px;
+	margin-right: 20px;
+}
+#violeta {
+	height: 50px;
+	 width: 50px;
+	 background-color: #A719F3;
+	 position: absolute;
+	margin-bottom: 20px;
+	margin-top: 80px;
+	margin-left: 20px;
+	margin-right: 80px;
+}
+#grisclaro {
+	height: 50px;
+	 width: 50px;
+	 background-color: #EBEBEB;
+	 position: absolute;
+	margin-bottom: 20px;
+	margin-top: 80px;
+	margin-left: 80px;
+	margin-right: 20px;
+}
